@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-18T00:00:00Z",
+  "items": [
+    {
+      "id": "track-001",
+      "title": "Parça 1",
+      "artist": "Sanatçı",
+      "url": "media/parca1.mp3",
+      "cover": "media/parca1.jpg"
+    }
+  ]
+}
